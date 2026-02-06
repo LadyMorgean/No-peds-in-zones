@@ -1,1 +1,1 @@
-Please note that this was fastly written so not sure if it 100% will work please read instructions in client.lua in how to use it. 
+Please note that this was fastly written so not sure if it 100% will work but when I installed it into our server it seemed to work just fine. Please read instructions in client.lua in how to use it. 
